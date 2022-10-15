@@ -1,10 +1,13 @@
-Nesta entrega construi o layout de um e-commerce seguindo um
-style guide, utilizei html e css.
+Neste projeto construi o layout de um e-commerce seguindo um
+style guide, utilizei HTML, CSS e JavaScript.
 
 
 
 Utilizei como base esse style
 guide (https://www.figma.com/file/c6W2gS11Dr2rVe7VUx97io/Vitrine---M1?node-id=0%3A1)
+
+
+Projeto de conclusão do primeiro módulo do curso da Kenzie Academy
 
 # Tarefa
 

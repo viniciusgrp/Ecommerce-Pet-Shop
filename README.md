@@ -9,6 +9,8 @@ guide (https://www.figma.com/file/c6W2gS11Dr2rVe7VUx97io/Vitrine---M1?node-id=0%
 
 Projeto de conclusão do primeiro módulo do curso da Kenzie Academy
 
+Confira o resultado no link: https://viniciusgrp.github.io/Ecommerce-Pet-Shop/
+
 # Tarefa
 
 Primeiramente recomendamos que você analise o layout e o style guide.
